@@ -1,0 +1,18 @@
+h4{
+    text-align:center;
+   color: white;
+}
+h6{
+text-align: center;
+margin-top:5px;
+margin-left: 2.5px;
+margin-right: 2.5px;
+color: white;
+}
+.text-toolbar{
+text-align:left;
+color: white;
+}
+.color_header_footer {
+background: #00437A!important
+}

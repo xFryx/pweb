@@ -1,0 +1,26 @@
+Buenas noches profesor.
+
+Para instalar el proyecto ejecute el comando npm install en la ventana de comandos una vez este
+en la carpeta. Instalara vue-router vuetify vuex
+
+Que pena incomodarle con toda esta situacion.
+
+Le explico donde se encuentran las archivos que utilice para realizar el proyecto
+
+el archivo alojado en la carpeta src/views/clase.vue se encontrara con una vista que contendra
+un header y un footer ademas de una ruta "hija" que se renderiza dentro que contiene el contenido
+de la pagina de la unimag, las cartas con el texto etc. 
+
+esa ruta hija se encuentra en la carpeta
+src/views/viewsClase/unimag.vue
+
+Debido a que vuetify proporciona muchas ayudas con los css utilice mas que todo lo utilice para 
+modificar las etiquetas "h" y los colores. dichos estilos se encunetran en la carpetea
+src/style/estilos.css
+
+El resto del proyecto corresponde a practicas que me encuentro haciendo, puede mirarlo si gusta 
+y hacerme recomendaciones del mismo. 
+
+Otra anotacion importante es que trate de modificar las clases por defecto del vuetify que utilizan
+las etiquetas de los componentes pero debido al grado de complejida que tenia a la hora de realizar
+los cambios, preferi no hacer modificaciones a las clases por defecto que tenian.
